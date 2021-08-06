@@ -45,4 +45,4 @@ Users should be able to:
 
 - GitHub - [Sunil Sharma](https://github.com/sunil-sharma-999/)
 - Frontend Mentor - [@sunil-sharma-999](https://www.frontendmentor.io/profile/sunil-sharma-999)
-- Instagram - [@sunil-sharma-9](https://www.instagram.com/sunil.sharma.9)
+- Twitter - [@yourusername](https://www.twitter.com/sharmasunil999)
